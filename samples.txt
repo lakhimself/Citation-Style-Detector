@@ -1,0 +1,4 @@
+Smith, J. A., & Brown, T. (2020). Understanding research trends...
+Smith, John. "The Future of AI." Journal of Modern Science, vol. 5, no. 3, 2020, pp. 45–60.
+Smith, John. (2020). The Future of AI. New York: Academic Press.
+[1] J. A. Smith and T. Brown, "Understanding research trends," Journal of AI Research, vol. 10, no. 2, pp. 100-110, 2020.

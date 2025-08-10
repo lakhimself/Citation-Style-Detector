@@ -1,0 +1,7 @@
+citation-style-detector/
+│
+├── app.py               # Flask app
+├── patterns.py          # Regex patterns for citation styles
+├── templates/
+│   └── index.html       # Main HTML template with tab UI
+└── README.md            # This file
