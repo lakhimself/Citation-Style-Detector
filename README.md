@@ -3,7 +3,7 @@
 
 # 📚 Citation Style Detector Web App 
 
-A simple web app built with **Flask** and **Tailwind CSS** that helps researchers detect citation styles from multiple references. Paste your citations, view each style in tabs, and get a quick summary — all with a clean and responsive interface! 🚀
+A simple web app built with **Flask** and **Tailwind CSS** that helps researchers detect citation styles from multiple references. Paste your citations, view each style in tabs, and get a quick summary — all with a clean and responsive interface! 
 
 ---
 
@@ -67,7 +67,7 @@ citation-style-detector/
 
 ## 📷 Screenshot
 
-
+<img width="991" height="808" alt="Cap" src="https://github.com/user-attachments/assets/690d1472-4179-4147-a23a-a428ceff9b7d" />
 
 ---
 
